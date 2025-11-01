@@ -9,8 +9,7 @@ O conteúdo aborda de forma educativa e reflexiva os limites, escolhas e consequ
 
 ## 🧐 Processo de Criação
 O texto foi escrito com apoio do ChatGPT, trazendo uma linguagem acessível e envolvente sobre o tema “Natty or Not”.
-As imagens foram criadas com o DALL·E para representar o contraste entre o fisiculturismo natural e o uso de substâncias.
-Por fim, o conteúdo foi diagramado no Canva, resultando em um e-book visualmente atraente e informativo.
+Por fim, o conteúdo foi diagramado resultando em um e-book visualmente atraente e informativo.
 
 ## 🚀 Resultados
 📘 E-book: **“Natty or Not: A Verdade por Trás do Shape”**  
